@@ -1,0 +1,1 @@
+# triangle-area-tests-class
